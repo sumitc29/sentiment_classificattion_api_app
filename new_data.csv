@@ -1,0 +1,151 @@
+id,subreddit,subreddit_comments,classification_of_comment,classification_score,Date
+1,company ABC launched new phone,The new phone is amazing!,dummy,dummy,8/5/2023
+1,company ABC launched new phone,I love the features of the new phone.,dummy,dummy,10/27/2023
+1,company ABC launched new phone,Not impressed with the new phone.,dummy,dummy,7/14/2023
+1,company ABC launched new phone,The battery life is disappointing.,dummy,dummy,11/22/2023
+1,company ABC launched new phone,Best phone launch this year!,dummy,dummy,10/6/2023
+1,company ABC launched new phone,I will definitely buy this phone.,dummy,dummy,5/12/2024
+1,company ABC launched new phone,The design is sleek and modern.,dummy,dummy,1/24/2024
+1,company ABC launched new phone,The camera quality is top-notch.,dummy,dummy,6/15/2024
+1,company ABC launched new phone,Too expensive for what it offers.,dummy,dummy,1/24/2024
+1,company ABC launched new phone,Can't wait to get my hands on it.,dummy,dummy,4/12/2024
+1,company ABC launched new phone,Great performance and speed.,dummy,dummy,11/27/2023
+1,company ABC launched new phone,It's just an average phone.,dummy,dummy,12/10/2023
+1,company ABC launched new phone,The screen resolution is stunning.,dummy,dummy,7/21/2023
+1,company ABC launched new phone,I've had better phones.,dummy,dummy,10/26/2023
+1,company ABC launched new phone,"Overall, a solid phone.",dummy,dummy,12/12/2023
+1,company ABC launched new phone,Customer service was helpful.,dummy,dummy,7/26/2023
+1,company ABC launched new phone,I had issues with the software.,dummy,dummy,4/8/2024
+1,company ABC launched new phone,The phone is worth the hype.,dummy,dummy,1/17/2024
+1,company ABC launched new phone,Not worth the money.,dummy,dummy,9/11/2023
+1,company ABC launched new phone,I'm satisfied with my purchase.,dummy,dummy,11/21/2023
+1,company ABC launched new phone,The phone overheats quickly.,dummy,dummy,4/16/2024
+1,company ABC launched new phone,A very user-friendly phone.,dummy,dummy,2/19/2024
+1,company ABC launched new phone,It exceeded my expectations.,dummy,dummy,1/3/2024
+1,company ABC launched new phone,The sound quality is poor.,dummy,dummy,4/4/2024
+1,company ABC launched new phone,It has great storage capacity.,dummy,dummy,3/25/2024
+1,company ABC launched new phone,I'm happy with the battery life.,dummy,dummy,9/4/2023
+1,company ABC launched new phone,The phone feels very durable.,dummy,dummy,7/26/2023
+1,company ABC launched new phone,It's not as good as I expected.,dummy,dummy,12/20/2023
+1,company ABC launched new phone,The updates are frequent and useful.,dummy,dummy,9/26/2023
+1,company ABC launched new phone,A great addition to the market.,dummy,dummy,7/22/2023
+2,Automating factory processes increase profit,Automation has boosted our profits.,dummy,dummy,6/5/2024
+2,Automating factory processes increase profit,We've seen a significant increase in efficiency.,dummy,dummy,12/28/2023
+2,Automating factory processes increase profit,Automation reduced our labor costs.,dummy,dummy,2/2/2024
+2,Automating factory processes increase profit,There were initial challenges with automation.,dummy,dummy,11/30/2023
+2,Automating factory processes increase profit,"Overall, automation has been beneficial.",dummy,dummy,10/9/2023
+2,Automating factory processes increase profit,Automation improved product quality.,dummy,dummy,12/1/2023
+2,Automating factory processes increase profit,It's an investment worth making.,dummy,dummy,3/11/2024
+2,Automating factory processes increase profit,Automation helped us meet deadlines.,dummy,dummy,7/11/2024
+2,Automating factory processes increase profit,We faced some resistance from workers.,dummy,dummy,11/24/2023
+2,Automating factory processes increase profit,Our output has increased manifold.,dummy,dummy,8/9/2023
+2,Automating factory processes increase profit,It's the future of manufacturing.,dummy,dummy,11/16/2023
+2,Automating factory processes increase profit,The initial costs were high.,dummy,dummy,12/7/2023
+2,Automating factory processes increase profit,Automation requires regular maintenance.,dummy,dummy,9/2/2023
+2,Automating factory processes increase profit,It's been a game-changer for us.,dummy,dummy,9/8/2023
+2,Automating factory processes increase profit,Automation reduced human error.,dummy,dummy,12/29/2023
+2,Automating factory processes increase profit,We had to retrain our staff.,dummy,dummy,7/29/2023
+2,Automating factory processes increase profit,It streamlined our processes.,dummy,dummy,7/8/2024
+2,Automating factory processes increase profit,Automation is not suitable for all tasks.,dummy,dummy,3/7/2024
+2,Automating factory processes increase profit,We achieved a good ROI.,dummy,dummy,8/30/2023
+2,Automating factory processes increase profit,Automation improved workplace safety.,dummy,dummy,11/30/2023
+2,Automating factory processes increase profit,We faced some technical issues.,dummy,dummy,11/19/2023
+2,Automating factory processes increase profit,It reduced our environmental impact.,dummy,dummy,8/22/2023
+2,Automating factory processes increase profit,Automation is not foolproof.,dummy,dummy,10/22/2023
+2,Automating factory processes increase profit,We need skilled technicians.,dummy,dummy,8/18/2023
+2,Automating factory processes increase profit,It's enhanced our competitiveness.,dummy,dummy,5/1/2024
+2,Automating factory processes increase profit,We had to invest in new technologies.,dummy,dummy,11/8/2023
+2,Automating factory processes increase profit,Automation made our processes transparent.,dummy,dummy,8/19/2023
+2,Automating factory processes increase profit,It requires constant monitoring.,dummy,dummy,1/11/2024
+2,Automating factory processes increase profit,We've become more agile.,dummy,dummy,10/10/2023
+2,Automating factory processes increase profit,It's not a one-size-fits-all solution.,dummy,dummy,9/1/2023
+3,Noodles are very tasty to eat,I love these noodles!,dummy,dummy,12/10/2023
+3,Noodles are very tasty to eat,The noodles are delicious.,dummy,dummy,11/25/2023
+3,Noodles are very tasty to eat,Best noodles I've ever had.,dummy,dummy,12/28/2023
+3,Noodles are very tasty to eat,The taste is just perfect.,dummy,dummy,10/20/2023
+3,Noodles are very tasty to eat,Not a fan of these noodles.,dummy,dummy,9/20/2023
+3,Noodles are very tasty to eat,They are too spicy for me.,dummy,dummy,12/30/2023
+3,Noodles are very tasty to eat,The flavor is amazing.,dummy,dummy,9/22/2023
+3,Noodles are very tasty to eat,Noodles are my favorite comfort food.,dummy,dummy,3/21/2024
+3,Noodles are very tasty to eat,These noodles are bland.,dummy,dummy,3/18/2024
+3,Noodles are very tasty to eat,I could eat these every day.,dummy,dummy,11/7/2023
+3,Noodles are very tasty to eat,The texture is great.,dummy,dummy,4/13/2024
+3,Noodles are very tasty to eat,Too salty for my taste.,dummy,dummy,8/14/2023
+3,Noodles are very tasty to eat,Perfect balance of flavors.,dummy,dummy,4/21/2024
+3,Noodles are very tasty to eat,These noodles are overrated.,dummy,dummy,8/13/2023
+3,Noodles are very tasty to eat,I enjoy the variety of flavors.,dummy,dummy,5/10/2024
+3,Noodles are very tasty to eat,They are not worth the price.,dummy,dummy,2/23/2024
+3,Noodles are very tasty to eat,I highly recommend these noodles.,dummy,dummy,7/23/2023
+3,Noodles are very tasty to eat,The packaging is convenient.,dummy,dummy,7/24/2023
+3,Noodles are very tasty to eat,These noodles are addictive.,dummy,dummy,4/3/2024
+3,Noodles are very tasty to eat,They are too greasy.,dummy,dummy,7/10/2024
+3,Noodles are very tasty to eat,Great for a quick meal.,dummy,dummy,1/31/2024
+3,Noodles are very tasty to eat,These noodles are undercooked.,dummy,dummy,3/6/2024
+3,Noodles are very tasty to eat,I love the spicy variant.,dummy,dummy,12/8/2023
+3,Noodles are very tasty to eat,The taste is inconsistent.,dummy,dummy,1/15/2024
+3,Noodles are very tasty to eat,These noodles are filling.,dummy,dummy,1/24/2024
+3,Noodles are very tasty to eat,They lack authentic flavor.,dummy,dummy,6/15/2024
+3,Noodles are very tasty to eat,I prefer homemade noodles.,dummy,dummy,9/5/2023
+3,Noodles are very tasty to eat,The seasoning is spot on.,dummy,dummy,3/28/2024
+3,Noodles are very tasty to eat,I found them to be soggy.,dummy,dummy,3/23/2024
+3,Noodles are very tasty to eat,They are my go-to snack.,dummy,dummy,6/29/2024
+4,startup culture should be enhanced,Startup culture fosters innovation.,dummy,dummy,4/1/2024
+4,startup culture should be enhanced,It's essential for economic growth.,dummy,dummy,12/14/2023
+4,startup culture should be enhanced,We need more support for startups.,dummy,dummy,11/6/2023
+4,startup culture should be enhanced,The startup ecosystem is thriving.,dummy,dummy,7/13/2024
+4,startup culture should be enhanced,There are many challenges for startups.,dummy,dummy,8/18/2023
+4,startup culture should be enhanced,Startups drive technological advancements.,dummy,dummy,2/28/2024
+4,startup culture should be enhanced,They create job opportunities.,dummy,dummy,11/6/2023
+4,startup culture should be enhanced,Funding is a major hurdle.,dummy,dummy,4/4/2024
+4,startup culture should be enhanced,The culture encourages risk-taking.,dummy,dummy,3/22/2024
+4,startup culture should be enhanced,Startups need better mentorship.,dummy,dummy,11/10/2023
+4,startup culture should be enhanced,There is a lack of resources.,dummy,dummy,11/18/2023
+4,startup culture should be enhanced,Collaboration is key for startups.,dummy,dummy,10/10/2023
+4,startup culture should be enhanced,The failure rate is high.,dummy,dummy,6/26/2024
+4,startup culture should be enhanced,Startups promote creativity.,dummy,dummy,1/19/2024
+4,startup culture should be enhanced,They need a supportive environment.,dummy,dummy,1/18/2024
+4,startup culture should be enhanced,It's tough to sustain a startup.,dummy,dummy,9/18/2023
+4,startup culture should be enhanced,The startup community is vibrant.,dummy,dummy,5/4/2024
+4,startup culture should be enhanced,Government policies can help.,dummy,dummy,9/4/2023
+4,startup culture should be enhanced,Startups need more exposure.,dummy,dummy,1/17/2024
+4,startup culture should be enhanced,They contribute to economic diversity.,dummy,dummy,3/15/2024
+4,startup culture should be enhanced,It's a competitive field.,dummy,dummy,9/29/2023
+4,startup culture should be enhanced,Startups face regulatory challenges.,dummy,dummy,6/10/2024
+4,startup culture should be enhanced,Networking is crucial.,dummy,dummy,4/2/2024
+4,startup culture should be enhanced,There is a need for better infrastructure.,dummy,dummy,12/11/2023
+4,startup culture should be enhanced,Startups drive market competition.,dummy,dummy,1/15/2024
+4,startup culture should be enhanced,They require flexible work environments.,dummy,dummy,3/5/2024
+4,startup culture should be enhanced,Startups often struggle with scaling.,dummy,dummy,2/16/2024
+4,startup culture should be enhanced,Access to capital is critical.,dummy,dummy,8/23/2023
+4,startup culture should be enhanced,They benefit from incubators.,dummy,dummy,7/6/2024
+4,startup culture should be enhanced,Startups are the future.,dummy,dummy,4/16/2024
+5,Playing activities are good for health,Playing keeps you fit.,dummy,dummy,8/30/2023
+5,Playing activities are good for health,It's great for mental health.,dummy,dummy,1/13/2024
+5,Playing activities are good for health,I enjoy playing sports.,dummy,dummy,12/26/2023
+5,Playing activities are good for health,Physical activities reduce stress.,dummy,dummy,6/7/2024
+5,Playing activities are good for health,Playing enhances coordination.,dummy,dummy,12/31/2023
+5,Playing activities are good for health,It's good for social interaction.,dummy,dummy,2/11/2024
+5,Playing activities are good for health,Activities keep you active.,dummy,dummy,12/16/2023
+5,Playing activities are good for health,Playing helps with weight management.,dummy,dummy,12/24/2023
+5,Playing activities are good for health,It boosts your mood.,dummy,dummy,2/5/2024
+5,Playing activities are good for health,Regular playing builds endurance.,dummy,dummy,6/23/2024
+5,Playing activities are good for health,It's fun and healthy.,dummy,dummy,5/26/2024
+5,Playing activities are good for health,Playing improves flexibility.,dummy,dummy,1/2/2024
+5,Playing activities are good for health,It's a good cardiovascular exercise.,dummy,dummy,1/11/2024
+5,Playing activities are good for health,Activities prevent chronic diseases.,dummy,dummy,1/18/2024
+5,Playing activities are good for health,Playing enhances cognitive function.,dummy,dummy,5/19/2024
+5,Playing activities are good for health,It promotes teamwork.,dummy,dummy,9/22/2023
+5,Playing activities are good for health,Playing keeps you young.,dummy,dummy,10/15/2023
+5,Playing activities are good for health,It's beneficial for all ages.,dummy,dummy,5/14/2024
+5,Playing activities are good for health,Activities increase energy levels.,dummy,dummy,9/9/2023
+5,Playing activities are good for health,Playing can be therapeutic.,dummy,dummy,10/10/2023
+5,Playing activities are good for health,It's important for overall health.,dummy,dummy,4/14/2024
+5,Playing activities are good for health,Playing develops motor skills.,dummy,dummy,4/2/2024
+5,Playing activities are good for health,It encourages a healthy lifestyle.,dummy,dummy,2/24/2024
+5,Playing activities are good for health,Activities improve sleep quality.,dummy,dummy,2/4/2024
+5,Playing activities are good for health,Playing is a great hobby.,dummy,dummy,9/26/2023
+5,Playing activities are good for health,It reduces anxiety.,dummy,dummy,2/24/2024
+5,Playing activities are good for health,Playing is a stress reliever.,dummy,dummy,12/5/2023
+5,Playing activities are good for health,It's a productive way to spend time.,dummy,dummy,2/5/2024
+5,Playing activities are good for health,Playing strengthens muscles.,dummy,dummy,10/7/2023
+5,Playing activities are good for health,It's essential for well-being.,dummy,dummy,8/5/2023
