@@ -50,6 +50,9 @@ to test the code, you can add more test cases here
 - build docker image: docker build -t api_app:latest .
 - execute docker command: docker run -p 8000:8000 api_app:latest
 
+## following are the images for executing flow
+
+![image](https://github.com/user-attachments/assets/e8ea98d5-6055-4cba-ab49-f6fb9179870a)
 
 
 
